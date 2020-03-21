@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 2020-03-29 Reflection: Eleanor Roosevelt
-date: '2020-03-29 8:00'
+title: How I Raised My Income By 30k Within 1 Year
+date: '2020-01-28 11:31'
 excerpt: >-
-  Students reflect on how their world has changed due to the impact of COVID-19.  
+  If you want to make more money, go get it. Leverage your skills and have a
+  strategy.
 comments: true
 published: true
 ---
+
 
 Test post.
 
