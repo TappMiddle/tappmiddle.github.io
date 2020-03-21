@@ -7,6 +7,5 @@ comments: true
 published: true
 ---
 
-**"With the new day comes new strength and new thoughts."**###
-
+### "With the new day comes new strength and new thoughts."
 —Eleanor Roosevelt
