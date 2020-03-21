@@ -6,5 +6,7 @@ excerpt: Students reflect on how their world has changed due to the impact of CO
 comments: true
 published: true
 ---
-nnnnnnn
-Test post.
+
+**"With the new day comes new strength and new thoughts."**###
+
+—Eleanor Roosevelt
