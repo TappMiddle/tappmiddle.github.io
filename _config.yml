@@ -23,7 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Me: "aboutme"
   Open Learning: "openlearning"
   #Projects: "projects"
 #  Resources:
