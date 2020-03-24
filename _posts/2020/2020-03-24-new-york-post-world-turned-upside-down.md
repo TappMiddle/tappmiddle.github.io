@@ -7,3 +7,11 @@ comments: true
 published: true
 ---
 ![new_york_post_upside_down.jpg](https://tappmiddle.github.io/img/new_york_post_upside_down.jpg)
+
+Write a response regarding the following: 
+
+1. Do you believe the New York Post cover page title is true?
+2. Reflect on the idea of social-distancing. What is the impact and the lessons that will be learned from this practice. 
+
+Keep the discussion going by commenting on others' responses. Use appropriate language and be respectful of your fellow students.
+
