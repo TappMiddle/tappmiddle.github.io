@@ -6,7 +6,7 @@ excerpt: "An overview of freely available learning content on various topics (th
 ---
 
 |**WRITING (W)**|
-| -------------------------------------------------------------------------------------------------------------------------:|
+| ------------------------------------------------------------------------------------------------------------------------- |
 | **ELAGSE8W1**: Write arguments to support claims with clear reasons and relevant evidence. |
 | a. Introduce claim(s), acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically. |
 | b. Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text. |
