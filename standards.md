@@ -13,7 +13,6 @@ excerpt: "An overview of freely available learning content on various topics (th
 | c. Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence. |
 | d. Establish and maintain a formal style. | 
 | e. Provide a concluding statement or section that follows from and supports the argument presented. | 
-
 | **ELAGSE8W2**: Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content. |
 | a. Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension. | 
 | b. Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples. |
