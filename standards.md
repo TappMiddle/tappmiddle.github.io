@@ -14,10 +14,10 @@ excerpt: "An overview of freely available learning content on various topics (th
 | d. Establish and maintain a formal style. | 
 | e. Provide a concluding statement or section that follows from and supports the argument presented. | 
 
-|**ELAGSE8W2**: Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content.|
-|a. Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.| 
-|b. Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples.|
-|c. Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas and concepts.| 
-|d. Use precise language and domain-specific vocabulary to inform about or explain the topic.| 
-|e. Establish and maintain a formal style.|
-|f. Provide a concluding statement or section that follows from and supports the information or explanation presented.|
+| **ELAGSE8W2**: Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content. |
+| a. Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension. | 
+| b. Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples. |
+| c. Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas and concepts. | 
+| d. Use precise language and domain-specific vocabulary to inform about or explain the topic. | 
+| e. Establish and maintain a formal style. |
+| f. Provide a concluding statement or section that follows from and supports the information or explanation presented. |
