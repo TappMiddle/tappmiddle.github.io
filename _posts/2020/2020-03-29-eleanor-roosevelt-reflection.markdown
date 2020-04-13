@@ -7,4 +7,4 @@ comments: true
 published: true
 ---
 
-Students reflect, discuss, and comment on how their world has changed due to the impact of COVID-19.
+Students reflect, discuss, and comment on the quote and how it applies to our new normal.
