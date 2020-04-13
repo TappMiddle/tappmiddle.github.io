@@ -7,4 +7,5 @@ comments: true
 published: true
 ---
 
-Students reflect, discuss, and comment on the quote and how it applies to their new normal.![]({{site.baseurl}}/)
+Students reflect, discuss, and comment on the quote and how it applies to their new normal.![]({{site.baseurl}}/ 
+Keep the discussion going by commenting on others' responses. Use appropriate language and be respectful of your fellow students.
